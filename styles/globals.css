@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom basic styles */
+html, body, #__next {
+  height: 100%;
+}
+.container {
+  max-width: 1100px;
+}
