@@ -14,6 +14,7 @@ export default function Header() {
           <Link href="/about"><a>Sobre</a></Link>
           <Link href="/responsibility"><a>Responsabilidade</a></Link>
           <Link href="/contact"><a>Contato</a></Link>
+          <Link href="/blaze-demo"><a>Blaze Demo</a></Link>
         </nav>
       </div>
     </header>
